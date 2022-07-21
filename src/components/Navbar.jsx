@@ -17,6 +17,15 @@ const Navbar = () => {
                 </ul>
             </div>
 
+            <div className='hidden md:flex pr-4'>
+                <button className='border-none bg-transparent text-black mr-4'>
+                    Sign In
+                </button>
+                <button className='px-8 py-3'>Sign Up</button>
+            </div>
+
+            
+
         </div>
         <MenuIcon className='w-5' />
     </div>

@@ -27,6 +27,13 @@ const Pricing = () => {
                         <p>$49<span>/mo</span></p>
                        </div>
                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                       <div>
+                        <p><CheckIcon /> Lorem ipsum dolor.</p>
+                        <p><CheckIcon /> Lorem ipsum dolor.</p>
+                        <p><CheckIcon /> Lorem ipsum dolor.</p>
+                        <p><CheckIcon /> Lorem ipsum dolor.</p>
+                        <p><CheckIcon /> Lorem ipsum dolor.</p>
+                       </div>
                     </div>
                 </div>
             </div>

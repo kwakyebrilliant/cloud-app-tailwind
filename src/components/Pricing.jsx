@@ -23,6 +23,10 @@ const Pricing = () => {
                 <div>
                     <div>
                        <span>Standard</span>
+                       <div>
+                        <p>$49<span>/mo</span></p>
+                       </div>
+                       <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
                     </div>
                 </div>
             </div>

@@ -16,6 +16,13 @@ const AllInOne = () => {
                 <div>
                     <div>
                         <CheckIcon className='w-7 mr-4 text-green-700 ' />
+                        <div>
+                            <h3>Notifications</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Asperiores maxime deserunt voluptatibus consequatur similique
+                                voluptates!
+                            </p>
+                        </div>
                     </div>
                 </div>
 

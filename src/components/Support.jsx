@@ -20,19 +20,19 @@ const Support = () => {
                 <p className='py-4 text-3xl text-slate-300 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. In repudiandae veritatis ratione error tenetur, voluptates architecto possimus ad! Omnis minima ea quidem quisquam unde beatae, minus illo et cum vel?</p>
             </div>
 
-            <div>
-            <div>
-                <div>
-                    <PhoneIcon />
-                    <h3>Sales</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi provident iure placeat blanditiis ea sint earum hic iste quibusdam exercitationem.</p>
+            <div className='grid grid-cols-1 lg:grid-cols-3 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>
+                <div className='bg-white rounded-xl shadow-2xl'>
+                    <div>
+                        <PhoneIcon />
+                        <h3>Sales</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi provident iure placeat blanditiis ea sint earum hic iste quibusdam exercitationem.</p>
+                    </div>
+                    <div>
+                        <p>Contact Us <ArrowSmRightIcon /></p>
+                    </div>
                 </div>
-                <div>
-                    <p>Contact Us <ArrowSmRightIcon /></p>
-                </div>
-            </div>
 
-        </div>
+            </div>
 
         </div>
 

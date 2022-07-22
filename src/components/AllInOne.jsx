@@ -15,7 +15,7 @@ const AllInOne = () => {
             <div>
                 <div>
                     <div>
-                        <CheckIcon />
+                        <CheckIcon className='w-7 mr-4 text-green-700 ' />
                     </div>
                 </div>
 

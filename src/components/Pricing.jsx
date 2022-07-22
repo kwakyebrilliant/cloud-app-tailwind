@@ -4,10 +4,10 @@ import { CheckIcon } from '@heroicons/react/solid';
 
 const Pricing = () => {
   return (
-    <div>
-        <div>
+    <div className='w-full text-white my-24'>
+       
 
-            <div>Absolute</div>
+        <div className='w-full h-[800px] bg-slate-900 absolute mix-blend-overlay'></div>
 
             <div>
                 <div>
@@ -38,7 +38,7 @@ const Pricing = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        
     </div>
   )
 }

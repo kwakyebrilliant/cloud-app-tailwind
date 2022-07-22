@@ -22,13 +22,13 @@ const Support = () => {
 
             <div className='grid grid-cols-1 lg:grid-cols-3 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>
                 <div className='bg-white rounded-xl shadow-2xl'>
-                    <div>
-                        <PhoneIcon />
-                        <h3>Sales</h3>
+                    <div className='p-8'>
+                        <PhoneIcon className='w-16 p-4 bg-red-700 text-white rounded-lg mt-[-4rem]' />
+                        <h3 className='font-bold text-2xl my-6'>Sales</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi provident iure placeat blanditiis ea sint earum hic iste quibusdam exercitationem.</p>
                     </div>
                     <div>
-                        <p>Contact Us <ArrowSmRightIcon /></p>
+                        <p className='flex items-center text-red-700'>Contact Us <ArrowSmRightIcon className='w-5 ml-2' /></p>
                     </div>
                 </div>
 

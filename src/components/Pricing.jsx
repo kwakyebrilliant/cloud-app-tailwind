@@ -28,11 +28,12 @@ const Pricing = () => {
                        </div>
                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
                        <div>
-                        <p><CheckIcon /> Lorem ipsum dolor.</p>
-                        <p><CheckIcon /> Lorem ipsum dolor.</p>
-                        <p><CheckIcon /> Lorem ipsum dolor.</p>
-                        <p><CheckIcon /> Lorem ipsum dolor.</p>
-                        <p><CheckIcon /> Lorem ipsum dolor.</p>
+                            <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-700'  />Lorem, ipsum dolor.</p>
+                            <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-700'  />Lorem, ipsum dolor.</p>
+                            <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-700'  />Lorem, ipsum dolor.</p>
+                            <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-700'  />Lorem, ipsum dolor.</p>
+                            <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-700'  />Lorem, ipsum dolor.</p>
+                        <button>Get Started</button>
                        </div>
                     </div>
                 </div>

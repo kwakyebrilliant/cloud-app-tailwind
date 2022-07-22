@@ -15,9 +15,12 @@ const AllInOne = () => {
 
             <div className='grid sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4'>
                 <div className='flex'>
-                        <CheckIcon className='w-7 mr-4 text-green-700 ' />
-                        <div className=''>
-                            <h3>Notifications</h3>
+                        <div>
+                            <CheckIcon className='w-7 mr-4 text-green-700 ' />
+                        </div>
+                        
+                        <div>
+                            <h3 className='font-bold text-lg'>Notifications</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Asperiores maxime deserunt voluptatibus consequatur similique
                                 voluptates!

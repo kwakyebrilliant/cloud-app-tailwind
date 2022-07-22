@@ -9,9 +9,9 @@ const Pricing = () => {
 
         <div className='w-full h-[800px] bg-slate-900 absolute mix-blend-overlay'></div>
 
-            <div>
-                <div>
-                    <h2>Pricing</h2>
+            <div className='max-w-[1240px] mx-auto py-12'>
+                <div className='text-center py-8 text-slate-300'>
+                    <h2 className='text-3xl uppercase'>Pricing</h2>
                     <h3>The right price for your research.</h3>
                     <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia
                         laudantium odio ullam inventore aliquid ipsum quasi tenetur velit

@@ -16,6 +16,7 @@ const Support = () => {
         <div>
             <div>
                 <h2>Support</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In repudiandae veritatis ratione error tenetur, voluptates architecto possimus ad! Omnis minima ea quidem quisquam unde beatae, minus illo et cum vel?</p>
             </div>
         </div>
         

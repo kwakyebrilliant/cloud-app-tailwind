@@ -3,12 +3,20 @@ import React from 'react'
 import { PhoneIcon, ArrowSmRightIcon } from '@heroicons/react/outline';
 import {ChipIcon, SupportIcon} from '@heroicons/react/solid'
 
-import supportImg from '../assets/support.jpg'
+import supportImg from '../assets/support.jpeg'
 
 const Support = () => {
   return (
     <div>
-        <h1>Support</h1>
+        
+        <div>
+            <img src={supportImg} alt="/"/>
+        </div>
+
+        <div>
+            
+        </div>
+        
     </div>
   )
 }

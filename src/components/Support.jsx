@@ -14,7 +14,9 @@ const Support = () => {
         </div>
 
         <div>
-            
+            <div>
+                <h2>Support</h2>
+            </div>
         </div>
         
     </div>

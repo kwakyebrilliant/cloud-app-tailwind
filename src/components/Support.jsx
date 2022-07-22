@@ -7,9 +7,9 @@ import supportImg from '../assets/support.jpeg'
 
 const Support = () => {
   return (
-    <div>
+    <div className='w-full h-screen mt-24'>
         
-        <div>
+        <div className='w-full h-[700px] bg-gray-900/90'>
             <img src={supportImg} alt="/"/>
         </div>
 
@@ -27,6 +27,9 @@ const Support = () => {
                     <PhoneIcon />
                     <h3>Sales</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi provident iure placeat blanditiis ea sint earum hic iste quibusdam exercitationem.</p>
+                </div>
+                <div>
+                    <p>Contact Us <ArrowSmRightIcon /></p>
                 </div>
             </div>
 

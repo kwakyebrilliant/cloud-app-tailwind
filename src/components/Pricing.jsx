@@ -18,6 +18,13 @@ const Pricing = () => {
                         voluptatum iste.
                     </p>
                 </div>
+
+
+                <div>
+                    <div>
+                       <span>Standard</span>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -1,4 +1,5 @@
 import React from 'react'
+import { CheckIcon } from '@heroicons/react/outline';
 
 const AllInOne = () => {
   return (
@@ -9,6 +10,17 @@ const AllInOne = () => {
             ab. Officia sunt nulla aspernatur culpa, eaque tenetur excepturi
             nostrum tempore.
             </p>
+
+
+            <div>
+                <div>
+                    <div>
+                        <CheckIcon />
+                    </div>
+                </div>
+
+
+            </div>
         </div>
     </div>
   )

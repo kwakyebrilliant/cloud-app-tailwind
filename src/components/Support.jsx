@@ -16,8 +16,20 @@ const Support = () => {
         <div>
             <div>
                 <h2>Support</h2>
+                <h3>Finding the right team</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In repudiandae veritatis ratione error tenetur, voluptates architecto possimus ad! Omnis minima ea quidem quisquam unde beatae, minus illo et cum vel?</p>
             </div>
+        </div>
+
+        <div>
+            <div>
+                <div>
+                    <PhoneIcon />
+                    <h3>Sales</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi provident iure placeat blanditiis ea sint earum hic iste quibusdam exercitationem.</p>
+                </div>
+            </div>
+
         </div>
         
     </div>

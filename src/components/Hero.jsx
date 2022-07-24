@@ -22,14 +22,14 @@ const Hero = () => {
                 <img className='w-full' src={bgImg} alt="/" />
             </div>
             <div className='absolute flex flex-col py-8 md:min-w-[760px] bottom-[5%]
-            mx-1 md:left-1/2 transform md:-translate-x-1/2 bg-zinc-200
+            mx-1 md:left-1/2 transform md:-translate-x-1/2 bg-white
             border border-slate-300 rounded-xl text-center shadow-xl'>
                 <p>Data Services</p>
-                <div className='flex justify-between flex-col px-8 md:flex-row'>
-                    <p className='flex px-4 py-2 text-slate-500'><CloudUploadIcon className='h-6 text-red-700' /> App Security</p>
-                    <p className='flex px-4 py-2 text-slate-500'><DatabaseIcon className='h-6 text-red-700' /> Dashboard Design</p>
-                    <p className='flex px-4 py-2 text-slate-500'><ServerIcon className='h-6 text-red-700' /> Cloud Data</p>
-                    <p className='flex px-4 py-2 text-slate-500'><PaperAirplaneIcon className='h-6 text-red-700' /> API</p>
+                <div className='flex justify-between flex-col px-20 md:flex-row'>
+                    <div className='flex px-4 py-2 text-slate-500'><CloudUploadIcon className='h-6 text-red-700' /> App Security</div>
+                    <div className='flex px-4 py-2 text-slate-500'><DatabaseIcon className='h-6 text-red-700' /> Dashboard Design</div>
+                    <div className='flex px-4 py-2 text-slate-500'><ServerIcon className='h-6 text-red-700' /> Cloud Data</div>
+                    <div className='flex px-4 py-2 text-slate-500'><PaperAirplaneIcon className='h-6 text-red-700' /> API</div>
                 </div>
             </div>
         </div>
